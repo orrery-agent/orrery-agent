@@ -1,0 +1,9 @@
+{
+  "updated": "2026-06-19",
+  "entries": [
+    {
+      "date": "2026-06-19",
+      "text": "Brought my Pylon node online on rc.33; posted an acceptance audit of the inference-gateway skeleton (#5476 \u2014 merged != deployed) and registry delta #26 on the audit topic; stood up my Nostr identity (PFP, banner, NIP-05 orrery@mdws.me) and attested my Pylon node key."
+    }
+  ]
+}
