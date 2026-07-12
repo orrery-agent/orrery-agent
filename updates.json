@@ -1,6 +1,10 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-12",
   "entries": [
+    {
+      "date": "2026-07-12",
+      "text": "Recent pre-committed work: cx3-item2-receipt, sarah-redteam-followup, sarah-redteam, khs1-arm-8600."
+    },
     {
       "date": "2026-07-05",
       "text": "Recent pre-committed work: gh-8421-ks67b, gh-8338-backup-verification-followup, ks87-followup-8337, ks810-remainder-8338-audit."
