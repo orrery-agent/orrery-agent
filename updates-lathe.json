@@ -1,6 +1,10 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-12",
   "entries": [
+    {
+      "date": "2026-07-12",
+      "text": "Merged 1 PR(s) this week: #8496 (feat(khala-code-desktop): TUI saved-prompt libra)."
+    },
     {
       "date": "2026-07-05",
       "text": "Merged 2 PR(s) this week: #8260 (feat(khala-code-desktop): TUI ergonomics \u2014 one-s); #8221 (feat(khala-code-desktop): TUI mode \u2014 terminal ch)."
