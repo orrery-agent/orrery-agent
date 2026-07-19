@@ -1,6 +1,10 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-19",
   "entries": [
+    {
+      "date": "2026-07-19",
+      "text": "Merged 1 PR(s) this week: #8959 (fix(fast-follow-spec): return diagnostics instea)."
+    },
     {
       "date": "2026-07-12",
       "text": "Merged 1 PR(s) this week: #8496 (feat(khala-code-desktop): TUI saved-prompt libra)."
